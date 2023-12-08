@@ -129,3 +129,50 @@ Cyclops (X-Men) in chibi art relaxing on a beach chair nestled beneath a vibrant
 
 
 <img src="https://th.bing.com/th/id/OIG.tiOIZBu4eoSa6npeOfzL?pid=ImgGn" height="256" width="256" >
+
+
+<br>
+<br>
+<br>
+
+**Text Prompt:**
+
+```
+Subject: Wipeout Cyclops
+
+Pose: A determined cyclops balances precariously on a giant wave, arms outstretched and teeth gritted in concentration. Their colorful swimsuit struggles to contain their enthusiasm as they attempt to master the art of surfing. However, the wave suddenly breaks beneath them, flinging the cyclops high into the air in a hilarious, flailing motion.
+
+Style: Exaggerated and comical, capturing the absurdity and humor of the situation.
+
+Details:
+
+The cyclops should be drawn in a chibi style, with exaggerated features and a comical expression of surprise.
+The wave should be massive and powerful, dwarfing the tiny cyclops.
+The moment of wipeout should be frozen in time, with the cyclops's limbs stretched out and their swimsuit billowing in the wind.
+Flying sand and water droplets should add to the chaotic, humorous atmosphere.
+Overall Tone: Lighthearted and funny, evoking laughter and amusement at the cyclops's failed attempt at surfing.
+```
+
+
+<img src="https://th.bing.com/th/id/OIG.r4iT_7_8JUIxioPQJ0fg?w=1024&h=1024&rs=1&pid=ImgDetMain" height="256" width="256" >
+
+
+<br>
+<br>
+<br>
+
+**Text Prompt:**
+
+```
+A bustling ballroom decorated with chibi-sized balloons and streamers. 
+Tiny lights twinkle from the ceiling, casting a playful glow on the partygoers. 
+Cyclops: A cheerful chibi boy with a spiky brown hairstyle peeking out from under his black fedora. 
+He wears a slightly oversized black suit with a white shirt and bowtie, his tie askew with childlike glee. 
+His grin is wide, showing off wide smile. 
+Jean Grey: A vibrant chibi girl with flowing red hair tied in bouncy pigtails and sparkling emerald green eyes. 
+She wears a shimmering emerald green dress that twirls playfully around her knees. 
+Her arms are outstretched, holding a helium balloon shaped like a phoenix.
+```
+
+
+<img src="https://th.bing.com/th/id/OIG.Cpa2yRoJM468jTqMkzdY?w=1024&h=1024&rs=1&pid=ImgDetMain" height="256" width="256" >
