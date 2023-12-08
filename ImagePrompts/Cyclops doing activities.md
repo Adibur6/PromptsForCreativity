@@ -10,7 +10,7 @@ Style: Cute and heroic
 Additional details: His X-Men uniform is slightly more detailed than in the previous prompt, but it still retains a cute and cartoony feel. 
 His visor is glowing with his optic blasts, and his hair is flowing in the wind.
 ```
-<img src="https://th.bing.com/th/id/OIG.vh2ml4SqFWtmMf8fVXby?w=1024&h=1024&rs=1&pid=ImgDetMain" >
+<img src="https://th.bing.com/th/id/OIG.vh2ml4SqFWtmMf8fVXby?w=1024&h=1024&rs=1&pid=ImgDetMain" height="256" width="256">
 
 <br>
 <br>
@@ -26,7 +26,7 @@ Style: Cute and peaceful
 Additional details: His pajamas are decorated with X-Men symbols, and he has a small stuffed animal of his teammate, Wolverine, next to him.
 The room is dark and quiet, and there is a gentle glow coming from a nightlight.
 ```
-<img src="https://th.bing.com/th/id/OIG.hFtXznuZGDWWNb1i9sQy?w=1024&h=1024&rs=1&pid=ImgDetMain" >
+<img src="https://th.bing.com/th/id/OIG.hFtXznuZGDWWNb1i9sQy?w=1024&h=1024&rs=1&pid=ImgDetMain" height="256" width="256">
 
 <br>
 <br>
@@ -42,7 +42,7 @@ Style: Cute and determined
 Additional details: Cyclops is wearing his X-Men uniform, but he has rolled up the sleeves to get to work.
 He has a determined expression on his face, and his optic blast is accidentally activating, highlighting parts of the code on the whiteboard.
 ```
-<img src="https://th.bing.com/th/id/OIG.NUYxCMadf7mPCwFAgYOj?w=1024&h=1024&rs=1&pid=ImgDetMain" >
+<img src="https://th.bing.com/th/id/OIG.NUYxCMadf7mPCwFAgYOj?w=1024&h=1024&rs=1&pid=ImgDetMain" height="256" width="256">
 
 
 <br>
@@ -60,7 +60,7 @@ Additional details: The X-Men are working together in a common area, each contri
 Cyclops is the lead programmer, and he is explaining his ideas to his teammates with enthusiasm.
 Jean Grey is using her telepathy to help him organize his thoughts, Beast is using his intellect to solve complex problems, and Storm is providing encouragement and motivation.
 ```
-<img src="https://th.bing.com/th/id/OIG.j8rzISkTN2SfH7BFfdNU?pid=ImgGn" >
+<img src="https://th.bing.com/th/id/OIG.j8rzISkTN2SfH7BFfdNU?pid=ImgGn" height="256" width="256">
 
 
 <br>
@@ -73,7 +73,7 @@ Jean Grey is using her telepathy to help him organize his thoughts, Beast is usi
 Cyclops (X-Men) in chibi art sitting by a crackling beach bonfire, roasting a marshmallow to golden perfection. He is surrounded by friends who listen with amusement as he shares a story.
 ```
 
-<img src="https://th.bing.com/th/id/OIG._fO4qlyl3YUKfkD4qYSn?w=1024&h=1024&rs=1&pid=ImgDetMain" >
+<img src="https://th.bing.com/th/id/OIG._fO4qlyl3YUKfkD4qYSn?w=1024&h=1024&rs=1&pid=ImgDetMain" height="256" width="256">
 
 
 <br>
@@ -89,7 +89,7 @@ Sand is flying in the air, kicked up by the cyclops's chase.
 The seagulls are depicted with playful expressions and flapping wings, creating a sense of movement and dynamism.
 ```
 
-<img src="https://th.bing.com/th/id/OIG.Xsj_KL8rBbLIrpHM7Id0?w=1024&h=1024&rs=1&pid=ImgDetMain" >
+<img src="https://th.bing.com/th/id/OIG.Xsj_KL8rBbLIrpHM7Id0?w=1024&h=1024&rs=1&pid=ImgDetMain" height="256" width="256">
 
 <br>
 <br>
@@ -114,7 +114,7 @@ The seagulls are depicted with playful expressions and flapping wings, creating 
 ```
 
 
-<img src="https://th.bing.com/th/id/OIG.a0GceeIKfkMnvsoVtNbp?pid=ImgGn" >
+<img src="https://th.bing.com/th/id/OIG.a0GceeIKfkMnvsoVtNbp?pid=ImgGn" height="256" width="256">
 
 
 <br>
@@ -128,4 +128,4 @@ Cyclops (X-Men) in chibi art relaxing on a beach chair nestled beneath a vibrant
 ```
 
 
-<img src="https://th.bing.com/th/id/OIG.tiOIZBu4eoSa6npeOfzL?pid=ImgGn" >
+<img src="https://th.bing.com/th/id/OIG.tiOIZBu4eoSa6npeOfzL?pid=ImgGn" height="256" width="256" >
